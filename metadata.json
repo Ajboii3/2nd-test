@@ -1,0 +1,6 @@
+{
+  "name": "NotifyAll",
+  "description": "A background donation alert app that reads incoming payments UPI notifications (Paytm, PhonePe, GPay) and reliably triggers custom StreamElements alert sounds and overlays via webhooks, with high-accuracy parsing and anti-double alert deduplication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
